@@ -28,4 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-项目
+该项目是基于vue-cli3.0+element搭建的后台管理模板 内含动态tag 全屏显示 收缩侧边栏
