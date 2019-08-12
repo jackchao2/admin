@@ -1,0 +1,16 @@
+export default {
+    homeview:'首页',
+    formmuenview:'表单',
+    fromLogin:'登录',
+    fromreg:'注册',
+    tableview:'表格',
+    basicsTable:'基础表格',
+    expertTable:'高级表格',
+    richtextview:'富文本',
+    cityview:'城市管理',
+    orderview:'订单管理',
+    orderdetails:'订单详情',
+    overorder:'结束订单',
+    Vehiclemapview:'车辆地图',
+    permissionview:'权限设置',
+}

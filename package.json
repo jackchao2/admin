@@ -1,14 +1,17 @@
 {
-  "name": "vue-admin",
+  "name": "vue-admin-primary",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.19.0",
     "core-js": "^2.6.5",
+    "element-ui": "^2.11.1",
+    "screenfull": "^4.2.1",
     "vue": "^2.6.10",
+    "vue-i18n": "^8.12.0",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
@@ -18,5 +21,9 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
