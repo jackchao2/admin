@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 
 Vue.use(Vuex)
-// store alibaba
+// store allllll
 export default new Vuex.Store({
   state: {
 
