@@ -7,6 +7,7 @@ import element from 'element-ui';
 import VueI18n from 'vue-i18n';
 import zh from './common/lang/zh.js';
 import en from './common/lang/en.js';
+// hello word
 
 Vue.config.productionTip = false
 Vue.use(element)
